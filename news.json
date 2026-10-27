@@ -1,0 +1,115 @@
+{
+ "stand": "27.10.2026, 07:20 Uhr",
+ "themen": [
+  {
+   "id": "kuenstler",
+   "titel": "Deine Künstler",
+   "emoji": "🎤",
+   "farbe": "#E91E63"
+  },
+  {
+   "id": "eauto",
+   "titel": "E-Autos",
+   "emoji": "🔌",
+   "farbe": "#00BFA5"
+  },
+  {
+   "id": "biontech",
+   "titel": "BioNTech",
+   "emoji": "🧬",
+   "farbe": "#7C4DFF"
+  },
+  {
+   "id": "eventim",
+   "titel": "CTS Eventim",
+   "emoji": "🎫",
+   "farbe": "#FF9100"
+  },
+  {
+   "id": "wirtschaft",
+   "titel": "Wirtschaft",
+   "emoji": "📈",
+   "farbe": "#2979FF"
+  },
+  {
+   "id": "zukunft",
+   "titel": "Zukunft",
+   "emoji": "🔭",
+   "farbe": "#AA00FF"
+  }
+ ],
+ "artikel": [
+  {
+   "thema": "kuenstler",
+   "wichtig": true,
+   "titel": "Andreas Gabalier kommt 2027 nach Dortmund",
+   "text": "Neu im Konzert-Update: Arena-Tour 2027 mit Halt in der Westfalenhalle Dortmund am Freitag, 19.11.2027 (106 km). Tickets gibt es bereits bei Ticketmaster.",
+   "quelle": "Konzert-Update / Ticketmaster",
+   "link": "https://www.ticketmaster.de/",
+   "datum": "26.10.2026"
+  },
+  {
+   "thema": "kuenstler",
+   "wichtig": false,
+   "titel": "Andrea Berg: Arena-Tour 2027 durch 24 Städte",
+   "text": "Andrea Berg geht 2027 auf große Arena-Tour durch Deutschland, Österreich und die Schweiz. Ihr seid in Dortmund (09.10.2027) und Oberhausen (07.11.2027) dabei.",
+   "quelle": "Stuttgarter Zeitung",
+   "link": "https://www.stuttgarter-zeitung.de/lokales/rems-murr-kreis/ticketverkauf-laeuft-schlagerkoenigin-andrea-berg-nach-dem-heimspiel-ist-vor-dem-heimspiel-79038769.html",
+   "datum": "Tour-Info"
+  },
+  {
+   "thema": "eauto",
+   "wichtig": false,
+   "titel": "VW ID. Cross jetzt ab 27.995 Euro",
+   "text": "Das kleine E-SUV startet in Deutschland unter 28.000 Euro. Die Basis mit 37-kWh-Akku schafft bis zu 324 km (WLTP) und lädt mit 90 kW – gedacht für Stadt und Pendeln.",
+   "quelle": "elektroquatsch.de",
+   "link": "https://www.elektroquatsch.de/zusammenfassungen/2026-10-22",
+   "datum": "22.10.2026"
+  },
+  {
+   "thema": "eauto",
+   "wichtig": false,
+   "titel": "Gebrauchte E-Autos: Akku-Probleme sind selten",
+   "text": "Eine Auswertung von rund 10.000 Batterie-Checks zeigt: Starke Unterschiede zwischen einzelnen Akkuzellen sind die Ausnahme. Der „Gesundheitswert“ (SoH) allein reicht als Bewertung aber nicht aus.",
+   "quelle": "elektroquatsch.de",
+   "link": "https://www.elektroquatsch.de/zusammenfassungen/2026-10-22",
+   "datum": "22.10.2026"
+  },
+  {
+   "thema": "biontech",
+   "wichtig": true,
+   "titel": "BioNTech: Brustkrebs-Studie mit gemischtem Ergebnis",
+   "text": "Das Mittel von BioNTech und DualityBio hat das Studienziel zwar erreicht, der Vorteil gegenüber Chemotherapie ist aber klein, und Lungen-Nebenwirkungen traten häufiger auf. Die Aktie gab am Montag rund 3 % nach.",
+   "quelle": "EuropaWire / 24/7 Wall St.",
+   "link": "https://news.europawire.eu/biontech-and-dualitybio-report-modest-progression-free-survival-benefit-and-elevated-ild-risk-in-phase-3-breast-cancer-trial/eu-press-release/2026/10/26/18/20/04/184476",
+   "datum": "26.10.2026"
+  },
+  {
+   "thema": "eventim",
+   "wichtig": true,
+   "titel": "Investor steigt bei CTS Eventim ein",
+   "text": "Der aktivistische Investor Ananym Capital hält die Aktie für deutlich unterbewertet und fordert unter anderem einen Aktienrückkauf. Die Aktie schloss am Freitag bei rund 63 Euro.",
+   "quelle": "ad-hoc-news.de",
+   "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ananym-capital-takes-stake-as-cts-eventim-stock-trades-eur-62-98/70403351",
+   "datum": "20.–24.10.2026"
+  },
+  {
+   "thema": "wirtschaft",
+   "wichtig": false,
+   "titel": "ifo: Stimmung in den Firmen etwas besser",
+   "text": "Der ifo-Geschäftsklimaindex stieg im Oktober leicht auf 90,2 Punkte (September: 89,9). Die Unternehmen blicken zuversichtlicher nach vorn, die aktuelle Lage bewerten sie aber etwas schlechter.",
+   "quelle": "ifo Institut",
+   "link": "https://www.ifo.de/umfrage/ifo-geschaeftsklima-deutschland",
+   "datum": "Oktober 2026"
+  },
+  {
+   "thema": "zukunft",
+   "wichtig": false,
+   "titel": "Europa 2031: Wie abhängig machen uns KI-Konzerne?",
+   "text": "Ein Zukunftsszenario spielt durch, wie Europa trotz viel KI-Nutzung an Einfluss verlieren könnte – wenn Rechenzentren und Top-KI-Modelle vor allem aus dem Ausland kommen. Die Autoren sehen es als Stresstest, nicht als Vorhersage.",
+   "quelle": "Future Skills Institut",
+   "link": "https://future-skills-institut.de/wissen/3-minuten-impulse/europe-2031/",
+   "datum": "Juni 2026"
+  }
+ ]
+}
