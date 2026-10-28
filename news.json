@@ -1,5 +1,5 @@
 {
- "stand": "27.10.2026, 07:20 Uhr",
+ "stand": "28.10.2026, 07:42 Uhr",
  "themen": [
   {
    "id": "kuenstler",
@@ -42,6 +42,24 @@
   {
    "thema": "kuenstler",
    "wichtig": true,
+   "titel": "Markus Krebs kommt nach Gronau und Borken",
+   "text": "Neu im Konzert-Update: Do 19.11.2026 Bürgerhalle Gronau (25 km), Mo 23.11. und Di 24.11.2026 Stadthalle Vennehof Borken. Laut festivalhopper.de, Vorverkauf über Ticketmaster.",
+   "quelle": "Konzert-Update / festivalhopper.de",
+   "link": "https://www.festivalhopper.de/bands/karten/markus-krebs.php",
+   "datum": "27.10.2026"
+  },
+  {
+   "thema": "kuenstler",
+   "wichtig": false,
+   "titel": "Andrea Berg: neues Best-of-Doppelalbum",
+   "text": "„Best Of – Das Rekord Album: Das kann uns keiner nehmen“ mit 34 Titeln ist seit 09.10.2026 erhältlich. Dabei ist auch ein neuer Titelsong.",
+   "quelle": "Konzert-Update / volksstimme.de",
+   "link": "https://www.volksstimme.de/",
+   "datum": "09.10.2026"
+  },
+  {
+   "thema": "kuenstler",
+   "wichtig": false,
    "titel": "Andreas Gabalier kommt 2027 nach Dortmund",
    "text": "Neu im Konzert-Update: Arena-Tour 2027 mit Halt in der Westfalenhalle Dortmund am Freitag, 19.11.2027 (106 km). Tickets gibt es bereits bei Ticketmaster.",
    "quelle": "Konzert-Update / Ticketmaster",
@@ -59,6 +77,24 @@
   },
   {
    "thema": "eauto",
+   "wichtig": true,
+   "titel": "Rückruf bei VW und Cupra: nur bis 80 % laden",
+   "text": "Weltweit sind 72.668 Elektroautos betroffen, davon 9.881 in Deutschland. Bis zur Lösung sollen Halter den Akku höchstens auf 80 Prozent laden.",
+   "quelle": "elektroquatsch.de",
+   "link": "https://www.elektroquatsch.de/zusammenfassungen/2026-10-24",
+   "datum": "24.10.2026"
+  },
+  {
+   "thema": "eauto",
+   "wichtig": false,
+   "titel": "VW ID.3 Neo für 28.846 Euro",
+   "text": "Der ID.3 Neo Trend wird in Deutschland als Neuwagen für 28.846 Euro angeboten. Die Reichweite liegt laut Angabe bei 417 km (WLTP).",
+   "quelle": "elektroquatsch.de",
+   "link": "https://www.elektroquatsch.de/zusammenfassungen/2026-10-24",
+   "datum": "24.10.2026"
+  },
+  {
+   "thema": "eauto",
    "wichtig": false,
    "titel": "VW ID. Cross jetzt ab 27.995 Euro",
    "text": "Das kleine E-SUV startet in Deutschland unter 28.000 Euro. Die Basis mit 37-kWh-Akku schafft bis zu 324 km (WLTP) und lädt mit 90 kW – gedacht für Stadt und Pendeln.",
@@ -67,17 +103,8 @@
    "datum": "22.10.2026"
   },
   {
-   "thema": "eauto",
-   "wichtig": false,
-   "titel": "Gebrauchte E-Autos: Akku-Probleme sind selten",
-   "text": "Eine Auswertung von rund 10.000 Batterie-Checks zeigt: Starke Unterschiede zwischen einzelnen Akkuzellen sind die Ausnahme. Der „Gesundheitswert“ (SoH) allein reicht als Bewertung aber nicht aus.",
-   "quelle": "elektroquatsch.de",
-   "link": "https://www.elektroquatsch.de/zusammenfassungen/2026-10-22",
-   "datum": "22.10.2026"
-  },
-  {
    "thema": "biontech",
-   "wichtig": true,
+   "wichtig": false,
    "titel": "BioNTech: Brustkrebs-Studie mit gemischtem Ergebnis",
    "text": "Das Mittel von BioNTech und DualityBio hat das Studienziel zwar erreicht, der Vorteil gegenüber Chemotherapie ist aber klein, und Lungen-Nebenwirkungen traten häufiger auf. Die Aktie gab am Montag rund 3 % nach.",
    "quelle": "EuropaWire / 24/7 Wall St.",
@@ -86,7 +113,7 @@
   },
   {
    "thema": "eventim",
-   "wichtig": true,
+   "wichtig": false,
    "titel": "Investor steigt bei CTS Eventim ein",
    "text": "Der aktivistische Investor Ananym Capital hält die Aktie für deutlich unterbewertet und fordert unter anderem einen Aktienrückkauf. Die Aktie schloss am Freitag bei rund 63 Euro.",
    "quelle": "ad-hoc-news.de",
@@ -101,15 +128,6 @@
    "quelle": "ifo Institut",
    "link": "https://www.ifo.de/umfrage/ifo-geschaeftsklima-deutschland",
    "datum": "Oktober 2026"
-  },
-  {
-   "thema": "zukunft",
-   "wichtig": false,
-   "titel": "Europa 2031: Wie abhängig machen uns KI-Konzerne?",
-   "text": "Ein Zukunftsszenario spielt durch, wie Europa trotz viel KI-Nutzung an Einfluss verlieren könnte – wenn Rechenzentren und Top-KI-Modelle vor allem aus dem Ausland kommen. Die Autoren sehen es als Stresstest, nicht als Vorhersage.",
-   "quelle": "Future Skills Institut",
-   "link": "https://future-skills-institut.de/wissen/3-minuten-impulse/europe-2031/",
-   "datum": "Juni 2026"
   }
  ]
 }
