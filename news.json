@@ -67,15 +67,6 @@
    "datum": "26.10.2026"
   },
   {
-   "thema": "kuenstler",
-   "wichtig": false,
-   "titel": "Andrea Berg: Arena-Tour 2027 durch 24 Städte",
-   "text": "Andrea Berg geht 2027 auf große Arena-Tour durch Deutschland, Österreich und die Schweiz. Ihr seid in Dortmund (09.10.2027) und Oberhausen (07.11.2027) dabei.",
-   "quelle": "Stuttgarter Zeitung",
-   "link": "https://www.stuttgarter-zeitung.de/lokales/rems-murr-kreis/ticketverkauf-laeuft-schlagerkoenigin-andrea-berg-nach-dem-heimspiel-ist-vor-dem-heimspiel-79038769.html",
-   "datum": "Tour-Info"
-  },
-  {
    "thema": "eauto",
    "wichtig": true,
    "titel": "Rückruf bei VW und Cupra: nur bis 80 % laden",
@@ -128,6 +119,15 @@
    "quelle": "ifo Institut",
    "link": "https://www.ifo.de/umfrage/ifo-geschaeftsklima-deutschland",
    "datum": "Oktober 2026"
+  },
+  {
+   "thema": "zukunft",
+   "wichtig": false,
+   "titel": "Europa 2031: Wie abhängig machen uns KI-Konzerne?",
+   "text": "Ein Zukunftsszenario spielt durch, wie Europa trotz viel KI-Nutzung an Einfluss verlieren könnte – wenn Rechenzentren und Top-KI-Modelle vor allem aus dem Ausland kommen. Die Autoren sehen es als Stresstest, nicht als Vorhersage.",
+   "quelle": "Future Skills Institut",
+   "link": "https://future-skills-institut.de/wissen/3-minuten-impulse/europe-2031/",
+   "datum": "Juni 2026"
   }
  ]
 }
