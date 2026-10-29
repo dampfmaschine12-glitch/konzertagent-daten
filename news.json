@@ -1,11 +1,17 @@
 {
- "stand": "29.10.2026, 07:42 Uhr",
+ "stand": "29.10.2026, 09:55 Uhr",
  "themen": [
   {
    "id": "kuenstler",
    "titel": "Deine Künstler",
    "emoji": "🎤",
    "farbe": "#E91E63"
+  },
+  {
+   "id": "capitol",
+   "titel": "Capitol Nordhorn",
+   "emoji": "🎭",
+   "farbe": "#FF5252"
   },
   {
    "id": "eauto",
@@ -46,7 +52,18 @@
    "text": "Neu im Konzert-Update: Mittwoch, 07.07.2027 in Bremen (ca. 137 km). Der genaue Veranstaltungsort steht noch nicht fest – ihr seid ja schon am 30.06.2027 in Bochum dabei.",
    "quelle": "Konzert-Update / festivalhopper.de",
    "link": "https://www.festivalhopper.de/",
-   "datum": "28.10.2026"
+   "datum": "28.10.2026",
+   "zusammenfassung": "Neben Bochum (Zeche, 30.06.2027 – da seid ihr dabei) spielen The Hooters 2027 auch in Bremen, und zwar am Mittwoch, 07.07.2027. Der genaue Veranstaltungsort ist noch nicht bekannt. Gefunden auf festivalhopper.de und eventworld.com."
+  },
+  {
+   "thema": "capitol",
+   "wichtig": false,
+   "titel": "Capitol Nordhorn: Die nächsten Konzerte",
+   "text": "Pe Werner (15.11.), Songs and Stories (23.01.), Ray Collins' Hot-Club (19.02.), Reinhold Beckmann & Band (20.02.) und Anne Haigis (13.03.2027).",
+   "zusammenfassung": "Die nächsten Konzerte im Capitol Nordhorn:\n• So 15.11.2026 – Pe Werner\n• Sa 23.01.2027 – Songs and Stories\n• Fr 19.02.2027 – Ray Collins' Hot-Club\n• Sa 20.02.2027 – Reinhold Beckmann, Thomas Biller & Band\n• Sa 13.03.2027 – Anne Haigis\nLaut Songkick sind insgesamt 9 Termine geplant, angezeigt werden davon aber nur diese 5. Wochentage aus dem Kalender ergänzt, Uhrzeiten bitte vor dem Ticketkauf prüfen.",
+   "quelle": "Songkick",
+   "link": "https://songkick.com/venues/4610128-capitol-nordhorn",
+   "datum": "29.10.2026"
   },
   {
    "thema": "kuenstler",
@@ -55,7 +72,8 @@
    "text": "Neu im Konzert-Update: Do 19.11.2026 Bürgerhalle Gronau (25 km), Mo 23.11. und Di 24.11.2026 Stadthalle Vennehof Borken. Laut festivalhopper.de, Vorverkauf über Ticketmaster.",
    "quelle": "Konzert-Update / festivalhopper.de",
    "link": "https://www.festivalhopper.de/bands/karten/markus-krebs.php",
-   "datum": "27.10.2026"
+   "datum": "27.10.2026",
+   "zusammenfassung": "Markus Krebs ist im November gleich mehrfach in der Nähe: am Mittwoch, 18.11.2026 im Stadttheater Minden, am Donnerstag, 19.11.2026 in der Bürgerhalle Gronau (nur 25 km) und am 23. und 24.11.2026 in der Stadthalle Vennehof in Borken. Die Termine stammen von der Sammelseite festivalhopper.de, der Vorverkauf läuft dort über Ticketmaster. Eine offizielle Bestätigung bei Eventim gab es für Gronau noch nicht – vor dem Kauf am besten auf markus-krebs.de prüfen."
   },
   {
    "thema": "kuenstler",
@@ -64,7 +82,8 @@
    "text": "„Best Of – Das Rekord Album: Das kann uns keiner nehmen“ mit 34 Titeln ist seit 09.10.2026 erhältlich. Dabei ist auch ein neuer Titelsong.",
    "quelle": "Konzert-Update / volksstimme.de",
    "link": "https://www.volksstimme.de/",
-   "datum": "09.10.2026"
+   "datum": "09.10.2026",
+   "zusammenfassung": "Seit dem 09.10.2026 gibt es von Andrea Berg ein neues Doppel-Album: „Best Of – Das Rekord Album: Das kann uns keiner nehmen“. Es enthält 34 Titel, darunter auch einen neuen Titelsong. Gemeldet hat das die Volksstimme."
   },
   {
    "thema": "kuenstler",
@@ -73,7 +92,8 @@
    "text": "Neu im Konzert-Update: Arena-Tour 2027 mit Halt in der Westfalenhalle Dortmund am Freitag, 19.11.2027 (106 km). Tickets gibt es bereits bei Ticketmaster.",
    "quelle": "Konzert-Update / Ticketmaster",
    "link": "https://www.ticketmaster.de/",
-   "datum": "26.10.2026"
+   "datum": "26.10.2026",
+   "zusammenfassung": "Andreas Gabalier geht 2027 auf Arena-Tour und kommt am Freitag, 19.11.2027 in die Westfalenhalle Dortmund (ca. 106 km). Tickets gibt es bereits bei Ticketmaster. In diesem Jahr spielt er außerdem noch in Bremen (29.10.) und Düsseldorf (17./18.11.)."
   },
   {
    "thema": "eauto",
@@ -82,7 +102,8 @@
    "text": "Weltweit sind 72.668 Elektroautos betroffen, davon 9.881 in Deutschland. Bis zur Lösung sollen Halter den Akku höchstens auf 80 Prozent laden.",
    "quelle": "elektroquatsch.de",
    "link": "https://www.elektroquatsch.de/zusammenfassungen/2026-10-24",
-   "datum": "24.10.2026"
+   "datum": "24.10.2026",
+   "zusammenfassung": "VW und Cupra rufen Elektroautos zurück: weltweit 72.668 Fahrzeuge, davon 9.881 in Deutschland. Bis eine endgültige Lösung da ist, sollen Halter den Akku nur noch bis höchstens 80 Prozent laden. Dein Hyundai Kona ist von diesem Rückruf nicht betroffen."
   },
   {
    "thema": "eauto",
@@ -91,7 +112,8 @@
    "text": "Der ID.3 Neo Trend wird in Deutschland als Neuwagen für 28.846 Euro angeboten. Die Reichweite liegt laut Angabe bei 417 km (WLTP).",
    "quelle": "elektroquatsch.de",
    "link": "https://www.elektroquatsch.de/zusammenfassungen/2026-10-24",
-   "datum": "24.10.2026"
+   "datum": "24.10.2026",
+   "zusammenfassung": "Der VW ID.3 Neo in der Ausstattung Trend wird in Deutschland als Neuwagen für 28.846 Euro angeboten. Laut Angabe schafft er bis zu 417 km Reichweite nach WLTP."
   },
   {
    "thema": "biontech",
@@ -100,7 +122,8 @@
    "text": "Das Mittel von BioNTech und DualityBio hat das Studienziel zwar erreicht, der Vorteil gegenüber Chemotherapie ist aber klein, und Lungen-Nebenwirkungen traten häufiger auf. Die Aktie gab am Montag rund 3 % nach.",
    "quelle": "EuropaWire / 24/7 Wall St.",
    "link": "https://news.europawire.eu/biontech-and-dualitybio-report-modest-progression-free-survival-benefit-and-elevated-ild-risk-in-phase-3-breast-cancer-trial/eu-press-release/2026/10/26/18/20/04/184476",
-   "datum": "26.10.2026"
+   "datum": "26.10.2026",
+   "zusammenfassung": "BioNTech und der Partner DualityBio haben Ergebnisse einer großen Studie (Phase 3) mit einem Brustkrebs-Mittel vorgelegt. Das Studienziel wurde zwar erreicht, der Vorteil gegenüber einer Chemotherapie ist aber nur klein. Außerdem traten häufiger Lungen-Nebenwirkungen auf, auch schwere. Die Firmen halten den Nutzen deshalb derzeit für begrenzt und beraten über die nächsten Schritte. Die Aktie gab am 26.10. rund 3 % nach."
   },
   {
    "thema": "eventim",
@@ -109,7 +132,8 @@
    "text": "Der aktivistische Investor Ananym Capital hält die Aktie für deutlich unterbewertet und fordert unter anderem einen Aktienrückkauf. Die Aktie schloss am Freitag bei rund 63 Euro.",
    "quelle": "ad-hoc-news.de",
    "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ananym-capital-takes-stake-as-cts-eventim-stock-trades-eur-62-98/70403351",
-   "datum": "20.–24.10.2026"
+   "datum": "20.–24.10.2026",
+   "zusammenfassung": "Der aktivistische Investor Ananym Capital ist bei CTS Eventim eingestiegen. Er hält die Aktie für deutlich unterbewertet und fordert mehr Transparenz beim Geschäftsmodell, eine stabile Führung und einen Aktienrückkauf. Die Aktie stand am 23.10. bei rund 63 Euro."
   },
   {
    "thema": "wirtschaft",
@@ -118,7 +142,8 @@
    "text": "Der ifo-Geschäftsklimaindex stieg im Oktober leicht auf 90,2 Punkte (September: 89,9). Die Unternehmen blicken zuversichtlicher nach vorn, die aktuelle Lage bewerten sie aber etwas schlechter.",
    "quelle": "ifo Institut",
    "link": "https://www.ifo.de/umfrage/ifo-geschaeftsklima-deutschland",
-   "datum": "Oktober 2026"
+   "datum": "Oktober 2026",
+   "zusammenfassung": "Der ifo-Geschäftsklimaindex ist im Oktober 2026 leicht gestiegen, auf 90,2 Punkte (September: 89,9). Die Firmen blicken zuversichtlicher in die kommenden Monate, ihre aktuelle Lage bewerten sie aber etwas schlechter. Kurz gesagt: Die Stimmung in der deutschen Wirtschaft hat sich etwas verbessert."
   },
   {
    "thema": "zukunft",
@@ -127,7 +152,8 @@
    "text": "Ein Zukunftsszenario spielt durch, wie Europa trotz viel KI-Nutzung an Einfluss verlieren könnte – wenn Rechenzentren und Top-KI-Modelle vor allem aus dem Ausland kommen. Die Autoren sehen es als Stresstest, nicht als Vorhersage.",
    "quelle": "Future Skills Institut",
    "link": "https://future-skills-institut.de/wissen/3-minuten-impulse/europe-2031/",
-   "datum": "Juni 2026"
+   "datum": "Juni 2026",
+   "zusammenfassung": "Das „Europe 2031“-Szenario spielt durch, wie Europa trotz breiter KI-Nutzung an Einfluss verlieren könnte: wenn Rechenzentren und die besten KI-Modelle vor allem aus dem Ausland kommen, kann technische Abhängigkeit zu politischer Abhängigkeit werden. Die Autoren sehen die Gefahr in vielen einzeln vernünftigen, aber zusammen zu langsamen Entscheidungen. Sie verstehen das Szenario ausdrücklich als Stresstest, nicht als Vorhersage."
   }
  ]
 }
