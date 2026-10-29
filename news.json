@@ -1,5 +1,5 @@
 {
- "stand": "28.10.2026, 07:42 Uhr",
+ "stand": "29.10.2026, 07:42 Uhr",
  "themen": [
   {
    "id": "kuenstler",
@@ -42,6 +42,15 @@
   {
    "thema": "kuenstler",
    "wichtig": true,
+   "titel": "The Hooters spielen 2027 auch in Bremen",
+   "text": "Neu im Konzert-Update: Mittwoch, 07.07.2027 in Bremen (ca. 137 km). Der genaue Veranstaltungsort steht noch nicht fest – ihr seid ja schon am 30.06.2027 in Bochum dabei.",
+   "quelle": "Konzert-Update / festivalhopper.de",
+   "link": "https://www.festivalhopper.de/",
+   "datum": "28.10.2026"
+  },
+  {
+   "thema": "kuenstler",
+   "wichtig": false,
    "titel": "Markus Krebs kommt nach Gronau und Borken",
    "text": "Neu im Konzert-Update: Do 19.11.2026 Bürgerhalle Gronau (25 km), Mo 23.11. und Di 24.11.2026 Stadthalle Vennehof Borken. Laut festivalhopper.de, Vorverkauf über Ticketmaster.",
    "quelle": "Konzert-Update / festivalhopper.de",
@@ -83,15 +92,6 @@
    "quelle": "elektroquatsch.de",
    "link": "https://www.elektroquatsch.de/zusammenfassungen/2026-10-24",
    "datum": "24.10.2026"
-  },
-  {
-   "thema": "eauto",
-   "wichtig": false,
-   "titel": "VW ID. Cross jetzt ab 27.995 Euro",
-   "text": "Das kleine E-SUV startet in Deutschland unter 28.000 Euro. Die Basis mit 37-kWh-Akku schafft bis zu 324 km (WLTP) und lädt mit 90 kW – gedacht für Stadt und Pendeln.",
-   "quelle": "elektroquatsch.de",
-   "link": "https://www.elektroquatsch.de/zusammenfassungen/2026-10-22",
-   "datum": "22.10.2026"
   },
   {
    "thema": "biontech",
