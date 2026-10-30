@@ -2,6 +2,48 @@
  "stand": "29.10.2026, 10:05 Uhr",
  "themen": [
   {
+   "id": "emsvechte",
+   "titel": "Ems-Vechte & Region",
+   "emoji": "📻",
+   "farbe": "#29B6F6"
+  },
+  {
+   "id": "zukunft",
+   "titel": "Zukunftsforscher",
+   "emoji": "🔮",
+   "farbe": "#AA00FF"
+  },
+  {
+   "id": "eauto",
+   "titel": "E-Autos",
+   "emoji": "⚡",
+   "farbe": "#00BFA5"
+  },
+  {
+   "id": "bild",
+   "titel": "BILD-Schlagzeilen",
+   "emoji": "🗞️",
+   "farbe": "#E53935"
+  },
+  {
+   "id": "wirtschaft",
+   "titel": "Wirtschaft",
+   "emoji": "📈",
+   "farbe": "#2979FF"
+  },
+  {
+   "id": "lustig",
+   "titel": "Lustiges",
+   "emoji": "😂",
+   "farbe": "#FFB300"
+  },
+  {
+   "id": "gut",
+   "titel": "Gute Nachrichten",
+   "emoji": "🌱",
+   "farbe": "#43A047"
+  },
+  {
    "id": "kuenstler",
    "titel": "Deine Künstler",
    "emoji": "🎤",
@@ -12,36 +54,6 @@
    "titel": "Capitol Nordhorn",
    "emoji": "🎭",
    "farbe": "#FF5252"
-  },
-  {
-   "id": "eauto",
-   "titel": "E-Autos",
-   "emoji": "🔌",
-   "farbe": "#00BFA5"
-  },
-  {
-   "id": "biontech",
-   "titel": "BioNTech",
-   "emoji": "🧬",
-   "farbe": "#7C4DFF"
-  },
-  {
-   "id": "eventim",
-   "titel": "CTS Eventim",
-   "emoji": "🎫",
-   "farbe": "#FF9100"
-  },
-  {
-   "id": "wirtschaft",
-   "titel": "Wirtschaft",
-   "emoji": "📈",
-   "farbe": "#2979FF"
-  },
-  {
-   "id": "zukunft",
-   "titel": "Zukunft",
-   "emoji": "🔭",
-   "farbe": "#AA00FF"
   }
  ],
  "artikel": [
@@ -116,7 +128,7 @@
    "zusammenfassung": "Der VW ID.3 Neo in der Ausstattung Trend wird in Deutschland als Neuwagen für 28.846 Euro angeboten. Laut Angabe schafft er bis zu 417 km Reichweite nach WLTP."
   },
   {
-   "thema": "biontech",
+   "thema": "wirtschaft",
    "wichtig": true,
    "titel": "BioNTech: Am 3. November kommen die Quartalszahlen",
    "text": "Die Aktie tritt weiter auf der Stelle, JPMorgan bleibt bei „neutral“. Am 3. November legt BioNTech Quartalszahlen vor und will über seine Medikamenten-Kandidaten berichten.",
@@ -126,7 +138,7 @@
    "datum": "27.10.2026"
   },
   {
-   "thema": "biontech",
+   "thema": "wirtschaft",
    "wichtig": false,
    "titel": "BioNTech: Brustkrebs-Studie mit gemischtem Ergebnis",
    "text": "Das Mittel von BioNTech und DualityBio hat das Studienziel zwar erreicht, der Vorteil gegenüber Chemotherapie ist aber klein, und Lungen-Nebenwirkungen traten häufiger auf. Die Aktie gab am Montag rund 3 % nach.",
@@ -136,7 +148,7 @@
    "zusammenfassung": "BioNTech und der Partner DualityBio haben Ergebnisse einer großen Studie (Phase 3) mit einem Brustkrebs-Mittel vorgelegt. Das Studienziel wurde zwar erreicht, der Vorteil gegenüber einer Chemotherapie ist aber nur klein. Außerdem traten häufiger Lungen-Nebenwirkungen auf, auch schwere. Die Firmen halten den Nutzen deshalb derzeit für begrenzt und beraten über die nächsten Schritte. Die Aktie gab am 26.10. rund 3 % nach."
   },
   {
-   "thema": "eventim",
+   "thema": "wirtschaft",
    "wichtig": false,
    "titel": "Investor steigt bei CTS Eventim ein",
    "text": "Der aktivistische Investor Ananym Capital hält die Aktie für deutlich unterbewertet und fordert unter anderem einen Aktienrückkauf. Die Aktie schloss am Freitag bei rund 63 Euro.",
@@ -164,6 +176,92 @@
    "link": "https://future-skills-institut.de/wissen/3-minuten-impulse/europe-2031/",
    "datum": "Juni 2026",
    "zusammenfassung": "Das „Europe 2031“-Szenario spielt durch, wie Europa trotz breiter KI-Nutzung an Einfluss verlieren könnte: wenn Rechenzentren und die besten KI-Modelle vor allem aus dem Ausland kommen, kann technische Abhängigkeit zu politischer Abhängigkeit werden. Die Autoren sehen die Gefahr in vielen einzeln vernünftigen, aber zusammen zu langsamen Entscheidungen. Sie verstehen das Szenario ausdrücklich als Stresstest, nicht als Vorhersage."
+  }
+ ],
+ "version": 2,
+ "feeds": [
+  {
+   "thema": "emsvechte",
+   "quelle": "Google News",
+   "url": "https://news.google.com/rss/search?q=Lingen%20OR%20Nordhorn%20OR%20Emsland%20OR%20%22Grafschaft%20Bentheim%22%20when%3A2d&hl=de&gl=DE&ceid=DE:de",
+   "max": 8
+  },
+  {
+   "thema": "zukunft",
+   "quelle": "Google News",
+   "url": "https://news.google.com/rss/search?q=Zukunftsforscher%20OR%20Zukunftsforschung%20OR%20Trendforscher%20when%3A7d&hl=de&gl=DE&ceid=DE:de",
+   "max": 6
+  },
+  {
+   "thema": "eauto",
+   "quelle": "electrive",
+   "url": "https://www.electrive.net/feed/",
+   "max": 5
+  },
+  {
+   "thema": "eauto",
+   "quelle": "Google News",
+   "url": "https://news.google.com/rss/search?q=Elektroauto%20when%3A2d&hl=de&gl=DE&ceid=DE:de",
+   "max": 5
+  },
+  {
+   "thema": "bild",
+   "quelle": "BILD",
+   "url": "https://www.bild.de/rss-feeds/rss-16725492,feed=alles.bild.html",
+   "max": 10
+  },
+  {
+   "thema": "bild",
+   "quelle": "BILD",
+   "url": "https://news.google.com/rss/search?q=site%3Abild.de%20when%3A1d&hl=de&gl=DE&ceid=DE:de",
+   "max": 6
+  },
+  {
+   "thema": "wirtschaft",
+   "quelle": "Google News",
+   "url": "https://news.google.com/rss/search?q=BioNTech%20OR%20%22CTS%20Eventim%22%20OR%20Fanuc%20OR%20Robotik%20OR%20%22Amazon%20Aktie%22%20when%3A2d&hl=de&gl=DE&ceid=DE:de",
+   "max": 8
+  },
+  {
+   "thema": "lustig",
+   "quelle": "Google News",
+   "url": "https://news.google.com/rss/search?q=kurios%20OR%20skurril%20when%3A2d&hl=de&gl=DE&ceid=DE:de",
+   "max": 6
+  },
+  {
+   "thema": "gut",
+   "quelle": "Google News",
+   "url": "https://news.google.com/rss/search?q=Durchbruch%20Medizin%20OR%20Artenschutz%20Erfolg%20OR%20%22gute%20Nachricht%22%20Umwelt%20when%3A4d&hl=de&gl=DE&ceid=DE:de",
+   "max": 6
+  }
+ ],
+ "angebot": {
+  "rubrik": "LEGO City – Angebot des Tages",
+  "titel": "LEGO City – aktuelle Angebote bei Amazon",
+  "hinweis": "Preis nicht geprüft – Amazon lässt sich nicht automatisch abrufen. Bitte im Shop vergleichen.",
+  "link": "https://www.amazon.de/s?k=LEGO+City+Angebote"
+ },
+ "vorschlaege": [
+  {
+   "id": "tagesschau",
+   "name": "tagesschau – Top-Meldungen",
+   "emoji": "📺",
+   "rss": "https://www.tagesschau.de/index~rss2.xml",
+   "grund": "Die wichtigsten Nachrichten aus Deutschland, seriös und kurz."
+  },
+  {
+   "id": "noz_emsland",
+   "name": "NOZ – Lingen & Emsland",
+   "emoji": "🏘️",
+   "rss": "https://news.google.com/rss/search?q=site%3Anoz.de%20Lingen%20OR%20Emsland%20when%3A3d&hl=de&gl=DE&ceid=DE:de",
+   "grund": "Mehr Lokales aus deiner Region."
+  },
+  {
+   "id": "heise",
+   "name": "heise – Technik & Robotik",
+   "emoji": "🤖",
+   "rss": "https://www.heise.de/rss/heise-top-atom.xml",
+   "grund": "Passt zu Robotik und Zukunftsthemen."
   }
  ]
 }
