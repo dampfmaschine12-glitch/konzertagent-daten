@@ -1,5 +1,5 @@
 {
- "stand": "29.10.2026, 10:05 Uhr",
+ "stand": "30.10.2026, 15:03 Uhr",
  "themen": [
   {
    "id": "emsvechte",
@@ -90,42 +90,12 @@
   {
    "thema": "kuenstler",
    "wichtig": false,
-   "titel": "Andrea Berg: neues Best-of-Doppelalbum",
-   "text": "„Best Of – Das Rekord Album: Das kann uns keiner nehmen“ mit 34 Titeln ist seit 09.10.2026 erhältlich. Dabei ist auch ein neuer Titelsong.",
-   "quelle": "Konzert-Update / volksstimme.de",
-   "link": "https://www.volksstimme.de/",
-   "datum": "09.10.2026",
-   "zusammenfassung": "Seit dem 09.10.2026 gibt es von Andrea Berg ein neues Doppel-Album: „Best Of – Das Rekord Album: Das kann uns keiner nehmen“. Es enthält 34 Titel, darunter auch einen neuen Titelsong. Gemeldet hat das die Volksstimme."
-  },
-  {
-   "thema": "kuenstler",
-   "wichtig": false,
    "titel": "Andreas Gabalier kommt 2027 nach Dortmund",
    "text": "Neu im Konzert-Update: Arena-Tour 2027 mit Halt in der Westfalenhalle Dortmund am Freitag, 19.11.2027 (106 km). Tickets gibt es bereits bei Ticketmaster.",
    "quelle": "Konzert-Update / Ticketmaster",
    "link": "https://www.ticketmaster.de/",
    "datum": "26.10.2026",
    "zusammenfassung": "Andreas Gabalier geht 2027 auf Arena-Tour und kommt am Freitag, 19.11.2027 in die Westfalenhalle Dortmund (ca. 106 km). Tickets gibt es bereits bei Ticketmaster. In diesem Jahr spielt er außerdem noch in Bremen (29.10.) und Düsseldorf (17./18.11.)."
-  },
-  {
-   "thema": "eauto",
-   "wichtig": true,
-   "titel": "Rückruf bei VW und Cupra: nur bis 80 % laden",
-   "text": "Weltweit sind 72.668 Elektroautos betroffen, davon 9.881 in Deutschland. Bis zur Lösung sollen Halter den Akku höchstens auf 80 Prozent laden.",
-   "quelle": "elektroquatsch.de",
-   "link": "https://www.elektroquatsch.de/zusammenfassungen/2026-10-24",
-   "datum": "24.10.2026",
-   "zusammenfassung": "VW und Cupra rufen Elektroautos zurück: weltweit 72.668 Fahrzeuge, davon 9.881 in Deutschland. Bis eine endgültige Lösung da ist, sollen Halter den Akku nur noch bis höchstens 80 Prozent laden. Dein Hyundai Kona ist von diesem Rückruf nicht betroffen."
-  },
-  {
-   "thema": "eauto",
-   "wichtig": false,
-   "titel": "VW ID.3 Neo für 28.846 Euro",
-   "text": "Der ID.3 Neo Trend wird in Deutschland als Neuwagen für 28.846 Euro angeboten. Die Reichweite liegt laut Angabe bei 417 km (WLTP).",
-   "quelle": "elektroquatsch.de",
-   "link": "https://www.elektroquatsch.de/zusammenfassungen/2026-10-24",
-   "datum": "24.10.2026",
-   "zusammenfassung": "Der VW ID.3 Neo in der Ausstattung Trend wird in Deutschland als Neuwagen für 28.846 Euro angeboten. Laut Angabe schafft er bis zu 417 km Reichweite nach WLTP."
   },
   {
    "thema": "wirtschaft",
@@ -146,50 +116,20 @@
    "link": "https://news.europawire.eu/biontech-and-dualitybio-report-modest-progression-free-survival-benefit-and-elevated-ild-risk-in-phase-3-breast-cancer-trial/eu-press-release/2026/10/26/18/20/04/184476",
    "datum": "26.10.2026",
    "zusammenfassung": "BioNTech und der Partner DualityBio haben Ergebnisse einer großen Studie (Phase 3) mit einem Brustkrebs-Mittel vorgelegt. Das Studienziel wurde zwar erreicht, der Vorteil gegenüber einer Chemotherapie ist aber nur klein. Außerdem traten häufiger Lungen-Nebenwirkungen auf, auch schwere. Die Firmen halten den Nutzen deshalb derzeit für begrenzt und beraten über die nächsten Schritte. Die Aktie gab am 26.10. rund 3 % nach."
-  },
-  {
-   "thema": "wirtschaft",
-   "wichtig": false,
-   "titel": "Investor steigt bei CTS Eventim ein",
-   "text": "Der aktivistische Investor Ananym Capital hält die Aktie für deutlich unterbewertet und fordert unter anderem einen Aktienrückkauf. Die Aktie schloss am Freitag bei rund 63 Euro.",
-   "quelle": "ad-hoc-news.de",
-   "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ananym-capital-takes-stake-as-cts-eventim-stock-trades-eur-62-98/70403351",
-   "datum": "20.–24.10.2026",
-   "zusammenfassung": "Der aktivistische Investor Ananym Capital ist bei CTS Eventim eingestiegen. Er hält die Aktie für deutlich unterbewertet und fordert mehr Transparenz beim Geschäftsmodell, eine stabile Führung und einen Aktienrückkauf. Die Aktie stand am 23.10. bei rund 63 Euro."
-  },
-  {
-   "thema": "wirtschaft",
-   "wichtig": false,
-   "titel": "ifo: Stimmung in den Firmen etwas besser",
-   "text": "Der ifo-Geschäftsklimaindex stieg im Oktober leicht auf 90,2 Punkte (September: 89,9). Die Unternehmen blicken zuversichtlicher nach vorn, die aktuelle Lage bewerten sie aber etwas schlechter.",
-   "quelle": "ifo Institut",
-   "link": "https://www.ifo.de/umfrage/ifo-geschaeftsklima-deutschland",
-   "datum": "Oktober 2026",
-   "zusammenfassung": "Der ifo-Geschäftsklimaindex ist im Oktober 2026 leicht gestiegen, auf 90,2 Punkte (September: 89,9). Die Firmen blicken zuversichtlicher in die kommenden Monate, ihre aktuelle Lage bewerten sie aber etwas schlechter. Kurz gesagt: Die Stimmung in der deutschen Wirtschaft hat sich etwas verbessert."
-  },
-  {
-   "thema": "zukunft",
-   "wichtig": false,
-   "titel": "Europa 2031: Wie abhängig machen uns KI-Konzerne?",
-   "text": "Ein Zukunftsszenario spielt durch, wie Europa trotz viel KI-Nutzung an Einfluss verlieren könnte – wenn Rechenzentren und Top-KI-Modelle vor allem aus dem Ausland kommen. Die Autoren sehen es als Stresstest, nicht als Vorhersage.",
-   "quelle": "Future Skills Institut",
-   "link": "https://future-skills-institut.de/wissen/3-minuten-impulse/europe-2031/",
-   "datum": "Juni 2026",
-   "zusammenfassung": "Das „Europe 2031“-Szenario spielt durch, wie Europa trotz breiter KI-Nutzung an Einfluss verlieren könnte: wenn Rechenzentren und die besten KI-Modelle vor allem aus dem Ausland kommen, kann technische Abhängigkeit zu politischer Abhängigkeit werden. Die Autoren sehen die Gefahr in vielen einzeln vernünftigen, aber zusammen zu langsamen Entscheidungen. Sie verstehen das Szenario ausdrücklich als Stresstest, nicht als Vorhersage."
   }
  ],
  "version": 2,
  "feeds": [
   {
    "thema": "emsvechte",
-   "quelle": "Google News",
-   "url": "https://news.google.com/rss/search?q=Lingen%20OR%20Nordhorn%20OR%20Emsland%20OR%20%22Grafschaft%20Bentheim%22%20when%3A2d&hl=de&gl=DE&ceid=DE:de",
+   "quelle": "Bing News",
+   "url": "https://www.bing.com/news/search?q=Lingen%20OR%20Nordhorn%20OR%20Emsland%20OR%20%22Grafschaft%20Bentheim%22%20-Sport%20-Fu%C3%9Fball%20-Bundesliga%20-Handball&format=rss&setlang=de-DE&mkt=de-DE&cc=DE",
    "max": 8
   },
   {
    "thema": "zukunft",
-   "quelle": "Google News",
-   "url": "https://news.google.com/rss/search?q=Zukunftsforscher%20OR%20Zukunftsforschung%20OR%20Trendforscher%20when%3A7d&hl=de&gl=DE&ceid=DE:de",
+   "quelle": "Bing News",
+   "url": "https://www.bing.com/news/search?q=Zukunftsforscher%20OR%20Zukunftsforschung%20OR%20Trendforscher&format=rss&setlang=de-DE&mkt=de-DE&cc=DE",
    "max": 6
   },
   {
@@ -200,9 +140,9 @@
   },
   {
    "thema": "eauto",
-   "quelle": "Google News",
-   "url": "https://news.google.com/rss/search?q=Elektroauto%20when%3A2d&hl=de&gl=DE&ceid=DE:de",
-   "max": 5
+   "quelle": "Bing News",
+   "url": "https://www.bing.com/news/search?q=Elektroauto%20-Sport%20-Fu%C3%9Fball%20-Bundesliga%20-Handball&format=rss&setlang=de-DE&mkt=de-DE&cc=DE",
+   "max": 6
   },
   {
    "thema": "bild",
@@ -213,25 +153,25 @@
   {
    "thema": "bild",
    "quelle": "BILD",
-   "url": "https://news.google.com/rss/search?q=site%3Abild.de%20when%3A1d&hl=de&gl=DE&ceid=DE:de",
+   "url": "https://www.bing.com/news/search?q=site%3Abild.de%20-Sport%20-Fu%C3%9Fball%20-Bundesliga%20-Handball&format=rss&setlang=de-DE&mkt=de-DE&cc=DE",
    "max": 6
   },
   {
    "thema": "wirtschaft",
-   "quelle": "Google News",
-   "url": "https://news.google.com/rss/search?q=BioNTech%20OR%20%22CTS%20Eventim%22%20OR%20Fanuc%20OR%20Robotik%20OR%20%22Amazon%20Aktie%22%20when%3A2d&hl=de&gl=DE&ceid=DE:de",
+   "quelle": "Bing News",
+   "url": "https://www.bing.com/news/search?q=BioNTech%20OR%20%22CTS%20Eventim%22%20OR%20Fanuc%20OR%20Robotik%20OR%20%22Amazon%20Aktie%22&format=rss&setlang=de-DE&mkt=de-DE&cc=DE",
    "max": 8
   },
   {
    "thema": "lustig",
-   "quelle": "Google News",
-   "url": "https://news.google.com/rss/search?q=kurios%20OR%20skurril%20when%3A2d&hl=de&gl=DE&ceid=DE:de",
+   "quelle": "Bing News",
+   "url": "https://www.bing.com/news/search?q=kurios%20OR%20skurril%20-Sport%20-Fu%C3%9Fball%20-Bundesliga%20-Handball&format=rss&setlang=de-DE&mkt=de-DE&cc=DE",
    "max": 6
   },
   {
    "thema": "gut",
-   "quelle": "Google News",
-   "url": "https://news.google.com/rss/search?q=Durchbruch%20Medizin%20OR%20Artenschutz%20Erfolg%20OR%20%22gute%20Nachricht%22%20Umwelt%20when%3A4d&hl=de&gl=DE&ceid=DE:de",
+   "quelle": "Bing News",
+   "url": "https://www.bing.com/news/search?q=%22gute%20Nachricht%22%20OR%20Durchbruch%20Medizin%20OR%20Artenschutz%20Erfolg%20-Sport%20-Fu%C3%9Fball%20-Bundesliga%20-Handball&format=rss&setlang=de-DE&mkt=de-DE&cc=DE",
    "max": 6
   }
  ],
@@ -253,7 +193,7 @@
    "id": "noz_emsland",
    "name": "NOZ – Lingen & Emsland",
    "emoji": "🏘️",
-   "rss": "https://news.google.com/rss/search?q=site%3Anoz.de%20Lingen%20OR%20Emsland%20when%3A3d&hl=de&gl=DE&ceid=DE:de",
+   "rss": "https://www.bing.com/news/search?q=site%3Anoz.de%20Lingen%20OR%20Emsland%20-Sport%20-Fu%C3%9Fball%20-Bundesliga%20-Handball&format=rss&setlang=de-DE&mkt=de-DE&cc=DE",
    "grund": "Mehr Lokales aus deiner Region."
   },
   {
