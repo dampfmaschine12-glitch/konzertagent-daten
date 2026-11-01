@@ -1,5 +1,5 @@
 {
- "stand": "31.10.2026, 07:41 Uhr",
+ "stand": "01.11.2026, 07:41 Uhr",
  "themen": [
   {
    "id": "emsvechte",
@@ -88,16 +88,6 @@
    "zusammenfassung": "Markus Krebs ist im November gleich mehrfach in der Nähe: am Mittwoch, 18.11.2026 im Stadttheater Minden, am Donnerstag, 19.11.2026 in der Bürgerhalle Gronau (nur 25 km) und am 23. und 24.11.2026 in der Stadthalle Vennehof in Borken. Die Termine stammen von der Sammelseite festivalhopper.de, der Vorverkauf läuft dort über Ticketmaster. Eine offizielle Bestätigung bei Eventim gab es für Gronau noch nicht – vor dem Kauf am besten auf markus-krebs.de prüfen."
   },
   {
-   "thema": "kuenstler",
-   "wichtig": false,
-   "titel": "Andreas Gabalier kommt 2027 nach Dortmund",
-   "text": "Neu im Konzert-Update: Arena-Tour 2027 mit Halt in der Westfalenhalle Dortmund am Freitag, 19.11.2027 (106 km). Tickets gibt es bereits bei Ticketmaster.",
-   "quelle": "Konzert-Update / Ticketmaster",
-   "link": "https://www.ticketmaster.de/",
-   "datum": "26.10.2026",
-   "zusammenfassung": "Andreas Gabalier geht 2027 auf Arena-Tour und kommt am Freitag, 19.11.2027 in die Westfalenhalle Dortmund (ca. 106 km). Tickets gibt es bereits bei Ticketmaster. In diesem Jahr spielt er außerdem noch in Bremen (29.10.) und Düsseldorf (17./18.11.)."
-  },
-  {
    "thema": "wirtschaft",
    "wichtig": true,
    "titel": "BioNTech: Am 3. November kommen die Quartalszahlen",
@@ -106,16 +96,6 @@
    "quelle": "Börse Express",
    "link": "https://www.boerse-express.com/news/articles/biontech-aktie-hier-ist-das-datum-956696",
    "datum": "27.10.2026"
-  },
-  {
-   "thema": "wirtschaft",
-   "wichtig": false,
-   "titel": "BioNTech: Brustkrebs-Studie mit gemischtem Ergebnis",
-   "text": "Das Mittel von BioNTech und DualityBio hat das Studienziel zwar erreicht, der Vorteil gegenüber Chemotherapie ist aber klein, und Lungen-Nebenwirkungen traten häufiger auf. Die Aktie gab am Montag rund 3 % nach.",
-   "quelle": "EuropaWire / 24/7 Wall St.",
-   "link": "https://news.europawire.eu/biontech-and-dualitybio-report-modest-progression-free-survival-benefit-and-elevated-ild-risk-in-phase-3-breast-cancer-trial/eu-press-release/2026/10/26/18/20/04/184476",
-   "datum": "26.10.2026",
-   "zusammenfassung": "BioNTech und der Partner DualityBio haben Ergebnisse einer großen Studie (Phase 3) mit einem Brustkrebs-Mittel vorgelegt. Das Studienziel wurde zwar erreicht, der Vorteil gegenüber einer Chemotherapie ist aber nur klein. Außerdem traten häufiger Lungen-Nebenwirkungen auf, auch schwere. Die Firmen halten den Nutzen deshalb derzeit für begrenzt und beraten über die nächsten Schritte. Die Aktie gab am 26.10. rund 3 % nach."
   }
  ],
  "version": 2,
