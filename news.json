@@ -1,5 +1,5 @@
 {
- "stand": "01.11.2026, 07:41 Uhr",
+ "stand": "02.11.2026, 07:41 Uhr",
  "themen": [
   {
    "id": "emsvechte",
@@ -76,26 +76,6 @@
    "quelle": "Songkick",
    "link": "https://songkick.com/venues/4610128-capitol-nordhorn",
    "datum": "29.10.2026"
-  },
-  {
-   "thema": "kuenstler",
-   "wichtig": false,
-   "titel": "Markus Krebs kommt nach Gronau und Borken",
-   "text": "Neu im Konzert-Update: Do 19.11.2026 Bürgerhalle Gronau (25 km), Mo 23.11. und Di 24.11.2026 Stadthalle Vennehof Borken. Laut festivalhopper.de, Vorverkauf über Ticketmaster.",
-   "quelle": "Konzert-Update / festivalhopper.de",
-   "link": "https://www.festivalhopper.de/bands/karten/markus-krebs.php",
-   "datum": "27.10.2026",
-   "zusammenfassung": "Markus Krebs ist im November gleich mehrfach in der Nähe: am Mittwoch, 18.11.2026 im Stadttheater Minden, am Donnerstag, 19.11.2026 in der Bürgerhalle Gronau (nur 25 km) und am 23. und 24.11.2026 in der Stadthalle Vennehof in Borken. Die Termine stammen von der Sammelseite festivalhopper.de, der Vorverkauf läuft dort über Ticketmaster. Eine offizielle Bestätigung bei Eventim gab es für Gronau noch nicht – vor dem Kauf am besten auf markus-krebs.de prüfen."
-  },
-  {
-   "thema": "wirtschaft",
-   "wichtig": true,
-   "titel": "BioNTech: Am 3. November kommen die Quartalszahlen",
-   "text": "Die Aktie tritt weiter auf der Stelle, JPMorgan bleibt bei „neutral“. Am 3. November legt BioNTech Quartalszahlen vor und will über seine Medikamenten-Kandidaten berichten.",
-   "zusammenfassung": "Die BioNTech-Aktie bewegt sich weiter seitwärts, also ohne klare Richtung. Die Bank JPMorgan hat ihre Einstufung „neutral“ bestätigt. Zuletzt hat eine Studie (AHEAD-MERIT, Wirkstoff BNT113) ihr Hauptziel verfehlt. Analysten sehen im Mittel trotzdem ein Kursziel von gut 104 Euro. Wichtigster Termin ist der 3. November: Dann gibt BioNTech die Quartalszahlen bekannt und zeigt, wie es bei seinen Krebs-Kandidaten weitergeht.",
-   "quelle": "Börse Express",
-   "link": "https://www.boerse-express.com/news/articles/biontech-aktie-hier-ist-das-datum-956696",
-   "datum": "27.10.2026"
   }
  ],
  "version": 2,
@@ -163,25 +143,25 @@
  },
  "vorschlaege": [
   {
-   "id": "tagesschau",
-   "name": "tagesschau – Top-Meldungen",
-   "emoji": "📺",
-   "rss": "https://www.tagesschau.de/index~rss2.xml",
-   "grund": "Die wichtigsten Nachrichten aus Deutschland, seriös und kurz."
+   "id": "laden",
+   "name": "Laden & Ladesäulen",
+   "emoji": "🔌",
+   "rss": "https://www.bing.com/news/search?q=Lades%C3%A4ule%20OR%20Schnellladepark%20OR%20Wallbox%20OR%20Ladetarif%20-Sport%20-Fu%C3%9Fball&format=rss&setlang=de-DE&mkt=de-DE&cc=DE",
+   "grund": "Dir gefallen E-Auto-Meldungen – hier gezielt alles rund ums Laden."
   },
   {
-   "id": "noz_emsland",
-   "name": "NOZ – Lingen & Emsland",
-   "emoji": "🏘️",
-   "rss": "https://www.bing.com/news/search?q=site%3Anoz.de%20Lingen%20OR%20Emsland%20-Sport%20-Fu%C3%9Fball%20-Bundesliga%20-Handball&format=rss&setlang=de-DE&mkt=de-DE&cc=DE",
-   "grund": "Mehr Lokales aus deiner Region."
-  },
-  {
-   "id": "heise",
-   "name": "heise – Technik & Robotik",
+   "id": "robotik",
+   "name": "Robotik in der Industrie",
    "emoji": "🤖",
-   "rss": "https://www.heise.de/rss/heise-top-atom.xml",
-   "grund": "Passt zu Robotik und Zukunftsthemen."
+   "rss": "https://www.bing.com/news/search?q=Industrieroboter%20OR%20Robotik%20Fabrik%20OR%20Fanuc%20OR%20KUKA%20-Sport%20-Fu%C3%9Fball&format=rss&setlang=de-DE&mkt=de-DE&cc=DE",
+   "grund": "Passt zu deinem Wirtschafts-Schwerpunkt Robotik und Fanuc."
+  },
+  {
+   "id": "lego",
+   "name": "LEGO-Neuheiten",
+   "emoji": "🧱",
+   "rss": "https://www.bing.com/news/search?q=LEGO%20Neuheiten%20OR%20LEGO%20City%20OR%20LEGO%20Set%20-Sport%20-Fu%C3%9Fball&format=rss&setlang=de-DE&mkt=de-DE&cc=DE",
+   "grund": "Neue Sets und Aktionen – passend zu deiner LEGO-Leidenschaft."
   }
  ]
 }
