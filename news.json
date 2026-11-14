@@ -1,5 +1,5 @@
 {
- "stand": "12.11.2026, 07:40 Uhr",
+ "stand": "14.11.2026, 07:41 Uhr",
  "themen": [
   {
    "id": "emsvechte",
@@ -57,16 +57,6 @@
   }
  ],
  "artikel": [
-  {
-   "thema": "kuenstler",
-   "titel": "Neu bei deinen Künstlern",
-   "text": "Vanessa Mai und Oli P. beim Solidarfonds-Schlagerboom 2027 in Castrop-Rauxel – und Kerstin Ott in der Helene Fischer-Show.",
-   "zusammenfassung": "• Vanessa Mai und Oli P. treten beim Solidarfonds-Schlagerboom 2027 auf: Fr, 26.02.2027, Europahalle Castrop-Rauxel (99 km).\n• Mit dabei sind u. a. die Hermes House Band und Jay Khan.\n• TV-Tipp: Kerstin Ott ist am Fr, 25.12.2026, um 20:15 Uhr in „Die Helene Fischer-Show“ (ZDF/Joyn) zu Gast.\n• Ebenfalls Kerstin Ott: Die Giovanni Zarrella Show am Sa, 21.11.2026, 20:15 Uhr im ZDF.",
-   "quelle": "Konzertagent",
-   "link": "https://claude.ai/artifact/JFvt9TupxZufewT9ZdbNoZ",
-   "datum": "08.11.2026",
-   "wichtig": false
-  },
   {
    "thema": "capitol",
    "wichtig": false,
@@ -137,9 +127,10 @@
  ],
  "angebot": {
   "rubrik": "LEGO City – Angebot des Tages",
-  "titel": "LEGO City – aktuelle Angebote bei Amazon",
-  "hinweis": "Preis nicht geprüft – Amazon lässt sich nicht automatisch abrufen. Bitte im Shop vergleichen.",
-  "link": "https://www.amazon.de/s?k=LEGO+City+Angebote"
+  "titel": "LEGO City Die Betonmischmaschine (60478)",
+  "preis": "24,49 €",
+  "link": "https://www.mydealz.de/deals/lego-city-die-betonmischmaschine-60478-2449-euro-bei-otto-durch-shoop-geschenkkarte-moglich-amazon-primeotto-up-plus-2869308",
+  "hinweis": "Gefunden bei mydealz (Otto, mit Shoop-Gutschrift; bei Amazon ca. 25,99 €), Stand 14.11.2026 – Preis kann sich ändern"
  },
  "vorschlaege": [
   {
