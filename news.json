@@ -1,5 +1,5 @@
 {
- "stand": "15.11.2026, 07:41 Uhr",
+ "stand": "19.11.2026, 07:42 Uhr",
  "themen": [
   {
    "id": "emsvechte",
@@ -58,11 +58,21 @@
  ],
  "artikel": [
   {
+   "thema": "kuenstler",
+   "wichtig": true,
+   "titel": "Kerstin Ott am Samstag bei Giovanni Zarrella",
+   "text": "Kerstin Ott ist am Sa 21.11.2026 um 20:15 Uhr in der Giovanni Zarrella Show (ZDF/Joyn).",
+   "zusammenfassung": "TV-Tipps aus deinem Konzertagent:\n• Sa 21.11.2026, 20:15 Uhr – Kerstin Ott in „Die Giovanni Zarrella Show“ (ZDF und Joyn)\n• Fr 25.12.2026, 20:15 Uhr – Kerstin Ott in „Die Helene Fischer-Show“ (ZDF und Joyn)\n• Andrea Berg: noch kein neuer TV-Termin; die Gäste für den Silvester-Schlagerbooom sind noch nicht bekannt.",
+   "quelle": "Konzertagent (joyn.de-Gästelisten)",
+   "link": "https://www.joyn.de",
+   "datum": "18.11.2026"
+  },
+  {
    "thema": "capitol",
    "wichtig": false,
    "titel": "Capitol Nordhorn: Die nächsten Veranstaltungen",
-   "text": "Heute Pe Werner, im Dezember das Weihnachtsvarieté „SPEKTAKEL“, 2027 u. a. Ray Collins' Hot-Club, Kom(m)ödchen und TOKUNBO.",
-   "zusammenfassung": "Die nächsten Termine im Capitol Nordhorn:\n• So 15.11.2026 – Pe Werner – „Vitamin Pe“ (Jubiläumstour)\n• Do 03.12.2026 – Weihnachtsvarieté „SPEKTAKEL“ – Premiere\n• Sa 05.12.2026 – Weihnachtsvarieté – Abendshow\n• So 06.12.2026 – Weihnachtsvarieté – Kinder-Varieté\n• Mo 07.12.2026 – Weihnachtsvarieté – Seniorennachmittag\n• Sa 12.12.2026 – Weihnachtsvarieté – Abschlussabend\n• Sa 23.01.2027 – Songs and Stories\n• Fr 19.02.2027 – Ray Collins' Hot-Club\n• Sa 20.02.2027 – Reinhold Beckmann, Thomas Biller & Band\n• Sa 27.02.2027 – Kom(m)ödchen – „Don't Look Back“ (Kabarett)\n• Sa 13.03.2027 – Anne Haigis\n• So 18.04.2027 – TOKUNBO – „Lost & Found“\nUhrzeiten und Tickets bitte vor dem Kauf auf regioactive.de prüfen.",
+   "text": "Im Dezember das Weihnachtsvarieté „SPEKTAKEL“, 2027 u. a. Ray Collins' Hot-Club, Kom(m)ödchen und TOKUNBO.",
+   "zusammenfassung": "Die nächsten Termine im Capitol Nordhorn:\n• Do 03.12.2026 – Weihnachtsvarieté „SPEKTAKEL“ – Premiere\n• Sa 05.12.2026 – Weihnachtsvarieté – Abendshow\n• So 06.12.2026 – Weihnachtsvarieté – Kinder-Varieté\n• Mo 07.12.2026 – Weihnachtsvarieté – Seniorennachmittag\n• Sa 12.12.2026 – Weihnachtsvarieté – Abschlussabend\n• Sa 23.01.2027 – Songs and Stories\n• Fr 19.02.2027 – Ray Collins' Hot-Club\n• Sa 20.02.2027 – Reinhold Beckmann, Thomas Biller & Band\n• Sa 27.02.2027 – Kom(m)ödchen – „Don't Look Back“ (Kabarett)\n• Sa 13.03.2027 – Anne Haigis\n• So 18.04.2027 – TOKUNBO – „Lost & Found“\nUhrzeiten und Tickets bitte vor dem Kauf auf regioactive.de prüfen.",
    "quelle": "regioactive.de",
    "link": "https://www.regioactive.de/clubs-locations/21799/nordhorn",
    "datum": "15.11.2026"
