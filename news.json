@@ -1,5 +1,5 @@
 {
- "stand": "22.11.2026, 07:42 Uhr",
+ "stand": "23.11.2026, 07:43 Uhr",
  "themen": [
   {
    "id": "emsvechte",
@@ -137,32 +137,31 @@
  ],
  "angebot": {
   "rubrik": "LEGO City – Angebot des Tages",
-  "titel": "LEGO City Die Betonmischmaschine (60478)",
-  "preis": "24,49 €",
-  "link": "https://www.mydealz.de/deals/lego-city-die-betonmischmaschine-60478-2449-euro-bei-otto-durch-shoop-geschenkkarte-moglich-amazon-primeotto-up-plus-2869308",
-  "hinweis": "Gefunden bei mydealz (Otto, mit Shoop-Gutschrift; bei Amazon ca. 25,99 €), Stand 14.11.2026 – Preis kann sich ändern"
+  "titel": "LEGO City Angebote bei Amazon",
+  "link": "https://www.amazon.de/s?k=LEGO+City+Angebote",
+  "hinweis": "Kein geprüftes Einzelangebot gefunden (Stand 23.11.2026) – Preis nicht geprüft"
  },
  "vorschlaege": [
   {
-   "id": "solar",
-   "name": "Solar & Stromspeicher",
-   "emoji": "☀️",
-   "rss": "https://www.bing.com/news/search?q=Photovoltaik%20Stromspeicher%20Wallbox%20-Sport%20-Fu%C3%9Fball&format=rss&setlang=de-DE&mkt=de-DE&cc=DE",
-   "grund": "Passt zu deiner PV-Anlage mit Speicher und Wallbox – Neuigkeiten zu Förderung, Technik und Preisen."
+   "id": "zoo",
+   "name": "Zoo-News Nordhorn & Osnabrück",
+   "emoji": "🦒",
+   "rss": "https://www.bing.com/news/search?q=Tierpark%20Nordhorn%20OR%20%22Zoo%20Osnabr%C3%BCck%22%20-Sport%20-Fu%C3%9Fball&format=rss&setlang=de-DE&mkt=de-DE&cc=DE",
+   "grund": "Ihr mögt beide Zoos – hier kommen Neuigkeiten aus den Tierparks in der Nähe."
   },
   {
-   "id": "modellbau",
-   "name": "Modellbau & Modellbahn",
-   "emoji": "🚂",
-   "rss": "https://www.bing.com/news/search?q=Modellbau%20Modellbahn%20Ausstellung%20-Sport%20-Fu%C3%9Fball&format=rss&setlang=de-DE&mkt=de-DE&cc=DE",
-   "grund": "Für dein Modellbau-Hobby und die Modellbaumesse Lingen: Messen, Neuheiten und Ausstellungen."
+   "id": "freilicht",
+   "name": "Freilichtmuseen & Alltagsgeschichte",
+   "emoji": "🏡",
+   "rss": "https://www.bing.com/news/search?q=Freilichtmuseum%20OR%20Museumsdorf%20Cloppenburg%20OR%20Alltagsgeschichte%20-Sport%20-Fu%C3%9Fball&format=rss&setlang=de-DE&mkt=de-DE&cc=DE",
+   "grund": "Passt zu Petras Interesse daran, wie Menschen früher lebten – mit Ausflugsideen."
   },
   {
-   "id": "meyerwerft",
-   "name": "Meyer Werft Papenburg",
-   "emoji": "🚢",
-   "rss": "https://www.bing.com/news/search?q=%22Meyer%20Werft%22%20Papenburg%20-Sport%20-Fu%C3%9Fball&format=rss&setlang=de-DE&mkt=de-DE&cc=DE",
-   "grund": "Neuigkeiten zu Schiffen, Ausdockungen und Emsüberführungen direkt aus der Werft in deiner Nähe."
+   "id": "bahn",
+   "name": "Bahn & Reisen",
+   "emoji": "🚆",
+   "rss": "https://www.bing.com/news/search?q=Deutsche%20Bahn%20Fahrplan%20ICE%20Niedersachsen%20-Sport%20-Fu%C3%9Fball&format=rss&setlang=de-DE&mkt=de-DE&cc=DE",
+   "grund": "Für eure vielen Zugreisen zu Konzerten: Fahrplanänderungen, Baustellen und Neuigkeiten."
   }
  ]
 }
