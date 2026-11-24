@@ -1,5 +1,5 @@
 {
- "stand": "23.11.2026, 07:43 Uhr",
+ "stand": "24.11.2026, 07:43 Uhr",
  "themen": [
   {
    "id": "emsvechte",
@@ -62,10 +62,10 @@
    "wichtig": true,
    "titel": "Neu: Markus Krebs in Aurich",
    "text": "Markus Krebs spielt am So 07.02.2027 in der Stadthalle Aurich (~119 km).",
-   "zusammenfassung": "Aus deinem Konzertagent:\n• Neu: Markus Krebs – So 07.02.2027, Stadthalle Aurich (~119 km)\n• TV: Sa 28.11.2026, 20:15 Uhr – „Das Adventsfest der 100.000 Lichter“ (Das Erste), Gäste noch nicht bekannt\n• TV: Fr 25.12.2026, 20:15 Uhr – Kerstin Ott in „Die Helene Fischer-Show“ (ZDF und Joyn)\n• Andrea Berg: noch kein neuer TV-Termin; Silvester-Schlagerbooom-Gäste noch nicht bekannt.",
+   "zusammenfassung": "Aus deinem Konzertagent:\n• Markus Krebs – So 07.02.2027, Stadthalle Aurich (~119 km)\n• TV: Sa 28.11.2026, 20:15 Uhr – „Das Adventsfest der 100.000 Lichter“ (Das Erste), Gäste noch nicht bekannt\n• TV: Fr 25.12.2026, 20:15 Uhr – Kerstin Ott in „Die Helene Fischer-Show“ (ZDF und Joyn)\n• Silvester-Schlagerbooom (31.12.): bisher keiner deiner Künstler dabei.",
    "quelle": "Konzertagent",
    "link": "https://www.joyn.de",
-   "datum": "21.11.2026"
+   "datum": "23.11.2026"
   },
   {
    "thema": "capitol",
@@ -137,9 +137,10 @@
  ],
  "angebot": {
   "rubrik": "LEGO City – Angebot des Tages",
-  "titel": "LEGO City Angebote bei Amazon",
-  "link": "https://www.amazon.de/s?k=LEGO+City+Angebote",
-  "hinweis": "Kein geprüftes Einzelangebot gefunden (Stand 23.11.2026) – Preis nicht geprüft"
+  "titel": "LEGO City Offroad-Geländewagen (60447)",
+  "preis": "12,90 €",
+  "link": "https://www.mydealz.de/deals/lego-city-offroad-gelandewagen-60447-fur-1290-euro-eol-122026-amazon-prime-2871976",
+  "hinweis": "Gefunden bei mydealz (Amazon, Prime), Stand 24.11.2026 – Preis kann sich ändern"
  },
  "vorschlaege": [
   {
